@@ -2,18 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yuanzhiy.com/en/2023/01/13/about-me/</loc>
+    <loc>https://yuanzhiy.com/en/tags/index.html</loc>
     
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://yuanzhiy.com/en/tags/index.html</loc>
+    <loc>https://yuanzhiy.com/en/2023/04/25/master_application_2023/</loc>
     
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuanzhiy.com/en/about/index.html</loc>
+    
+    <lastmod>2023-05-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>https://yuanzhiy.com/en/categories/index.html</loc>
     
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -38,12 +47,19 @@
 
   
   <url>
-    <loc>https://yuanzhiy.com/en/tags/T3DdY/</loc>
+    <loc>https://yuanzhiy.com/en/tags/%E7%94%B3%E8%AF%B7/</loc>
     <lastmod>2023-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://yuanzhiy.com/en/categories/%E7%95%99%E5%AD%A6/</loc>
+    <lastmod>2023-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
