@@ -3,11 +3,11 @@
   <title>T3DdY&#39;s Thinking Cage</title>
   
   
-  <link href="https://yuanzhiy.com/en/atom.xml" rel="self"/>
+  <link href="https://tedlc.github.io/en/atom.xml" rel="self"/>
   
-  <link href="https://yuanzhiy.com/en/"/>
+  <link href="https://tedlc.github.io/en/"/>
   <updated>2024-04-02T18:36:32.733Z</updated>
-  <id>https://yuanzhiy.com/en/</id>
+  <id>https://tedlc.github.io/en/</id>
   
   <author>
     <name>T3DdY</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>About Me</title>
-    <link href="https://yuanzhiy.com/en/2023/04/25/about_me_en/"/>
-    <id>https://yuanzhiy.com/en/2023/04/25/about_me_en/</id>
+    <link href="https://tedlc.github.io/en/2023/04/25/about_me_en/"/>
+    <id>https://tedlc.github.io/en/2023/04/25/about_me_en/</id>
     <published>2023-04-25T04:00:00.000Z</published>
     <updated>2024-04-02T18:36:32.733Z</updated>
     
@@ -30,10 +30,10 @@
     
     
     
-    <category term="Personal" scheme="https://yuanzhiy.com/en/categories/Personal/"/>
+    <category term="Personal" scheme="https://tedlc.github.io/en/categories/Personal/"/>
     
     
-    <category term="T3DdY" scheme="https://yuanzhiy.com/en/tags/T3DdY/"/>
+    <category term="T3DdY" scheme="https://tedlc.github.io/en/tags/T3DdY/"/>
     
   </entry>
   
